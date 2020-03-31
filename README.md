@@ -4,7 +4,7 @@
 
 ## The Hey Guys Show
 
-#### The Hey Guys Show Presented By ([jet](Https://www.facebook.com/jetalarcon) "Papi Gp", [Flo](Https://www.facebook.com/tabvlogger/) "Direk", [JP](Https://www.facebook.com/chizibi) "Vitamin J", [Mark](Https://www.facebook.com/macmac.uy) "Mister M")
+#### The Hey Guys Show Presented By ([Jet](Https://www.facebook.com/jetalarcon) "Papi Gp", [Flo](Https://www.facebook.com/tabvlogger/) "Direk", [JP](Https://www.facebook.com/chizibi) "Vitamin J", [Mark](Https://www.facebook.com/macmac.uy) "Mister M")
 
 1. **Introduction** (Papi Gp)
     - Kamustahan
