@@ -4,9 +4,10 @@
 
 ## The Hey Guys Show
 
-### Presented By 
- * [Jet](Https://www.facebook.com/jetalarcon) "Papi Gp"
+### Presented By
+
  * [Flo](Https://www.facebook.com/tabvlogger/) "Direk DJ Darkness"
+ * [Jet](Https://www.facebook.com/jetalarcon) "Papi Gp"
  * [JP](Https://www.facebook.com/chizibi) "Vitamin J"
  * [Mark](Https://www.facebook.com/macmac.uy) "Mister M"
 
