@@ -1,3 +1,7 @@
+![The Hey Guys Show
+ LOGO](https://raw.githubusercontent.com/markanthonyuy/THEHEYGUYSSHOW/master/thgs-logo.png "The Hey Guys Show
+ LOGO")
+
 ## The Hey Guys Show
 
 #### The Hey Guys Show Presented By ([jet](Https://www.facebook.com/jetalarcon) "Papi Gp", [Flo](Https://www.facebook.com/tabvlogger/) "Direk", [JP](Https://www.facebook.com/chizibi) "Vitamin J", [Mark](Https://www.facebook.com/macmac.uy) "Mister M")
