@@ -1,6 +1,6 @@
 ## THE HEY GUYS SHOW
 
-#### THE HEY GUYS SHOW PRESENTED BY ([https://www.facebook.com/jetalarcon](JET) "PAPI GP", [https://www.facebook.com/TabVlogger/](FLO) "DIREK", [https://www.facebook.com/CHIZIBI](JP) "VITAMIN J", [https://www.facebook.com/macmac.uy](MARK) "MISTER M")
+#### THE HEY GUYS SHOW PRESENTED BY ([JET](https://www.facebook.com/jetalarcon) "PAPI GP", [FLO](https://www.facebook.com/TabVlogger/) "DIREK", [JP](https://www.facebook.com/CHIZIBI) "VITAMIN J", [MARK](https://www.facebook.com/macmac.uy) "MISTER M")
 
 1. **INTRODUCTION** (PAPI GP)
     - KAMUSTAHAN
