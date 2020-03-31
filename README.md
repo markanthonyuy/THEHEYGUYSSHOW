@@ -9,7 +9,7 @@
 1. **Introduction** (Papi Gp)
     - Kamustahan
     - Current Events
-    - Guest Introduction By Host _(Optional If Guest Is Present)_
+    - Guest Introduction By Host _(Optional)_
         * Let Guest Introduce Himself/Herself
         * Ask Guest Questions About Himself/Herself
 2. **Pusong Sugatan, May Kasagutan (PSMY) Segment**
@@ -22,7 +22,7 @@
         * Ready Text Question Papi Gp, Mister M, Vitamin J, Direk
     - Read FB Comments
 4. **Closing Remark**
-    - Ask Guest How To Reach Himself/Herself _(Optional If Guest Is Present)_
+    - Ask Guest How To Reach Himself/Herself _(Optional)_
     - Remind Everyone Of Hey Guys Schedule _(M,W,F,S)_
   
 #### Future Segment Ideas
