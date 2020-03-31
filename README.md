@@ -4,11 +4,13 @@
 
 ## The Hey Guys Show
 
-#### Presented By 
+### Presented By 
  * [Jet](Https://www.facebook.com/jetalarcon) "Papi Gp"
  * [Flo](Https://www.facebook.com/tabvlogger/) "Direk DJ Darkness"
  * [JP](Https://www.facebook.com/chizibi) "Vitamin J"
  * [Mark](Https://www.facebook.com/macmac.uy) "Mister M"
+
+### Program Flow
 
 1. **Introduction** (Papi Gp)
     - Kamustahan
@@ -29,15 +31,15 @@
     - _(OPTIONAL)_ Ask Guest How To Reach Himself/Herself
     - Remind Everyone Of Hey Guys Schedule _(M,W,F,S)_
   
-#### Future Segment Ideas
+### Future Segment Ideas
   1. Knock Knock Joke
   2. Pro Tips
   3. Trivia
 
-#### Regular Guest Every Sat
+### Regular Guest Every Sat
   * Alexis "Shaider"
 
-#### Previous Guests
+### Previous Guests
   1. JR "Master Jerimiah"
   2. Chit "Papi Chit"
   3. Jana "Madam Jana"
