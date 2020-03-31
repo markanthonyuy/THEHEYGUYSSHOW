@@ -1,36 +1,36 @@
-## THE HEY GUYS SHOW
+## The Hey Guys Show
 
-#### THE HEY GUYS SHOW PRESENTED BY ([JET](https://www.facebook.com/jetalarcon) "PAPI GP", [FLO](https://www.facebook.com/TabVlogger/) "DIREK", [JP](https://www.facebook.com/CHIZIBI) "VITAMIN J", [MARK](https://www.facebook.com/macmac.uy) "MISTER M")
+#### The Hey Guys Show Presented By ([jet](Https://www.facebook.com/jetalarcon) "Papi Gp", [Flo](Https://www.facebook.com/tabvlogger/) "Direk", [JP](Https://www.facebook.com/chizibi) "Vitamin J", [Mark](Https://www.facebook.com/macmac.uy) "Mister M")
 
-1. **INTRODUCTION** (PAPI GP)
-    - KAMUSTAHAN
-    - CURRENT EVENTS
-    - GUEST INTRODUCTION BY HOST _(OPTIONAL IF GUEST IS PRESENT)_
-        * LET GUEST INTRODUCE HIMSELF/HERSELF
-        * ASK GUEST QUESTIONS ABOUT HIMSELF/HERSELF
-2. **PUSONG SUGATAN, MAY KASAGUTAN (PSMY) SEGMENT**
-    - ACKNOWLEDGE/SHOUTOUT FB FANS/WATCHERS 
-    - READ TEXT QUESTIONS
-        * READY TEXT QUESTION PAPI GP, MISTER M, VITAMIN J, DIREK
-    - READ FB COMMENTS
-3. **SERYOSONG TANONG, SERYOSONG SAGOT SEGMENT (STSS)**
-    - READ TEXT QUESTIONS
-        * READY TEXT QUESTION PAPI GP, MISTER M, VITAMIN J, DIREK
-    - READ FB COMMENTS
-4. **CLOSING REMARK**
-    - ASK GUEST HOW TO REACH HIMSELF/HERSELF _(OPTIONAL IF GUEST IS PRESENT)_
-    - REMIND EVERYONE OF HEY GUYS SCHEDULE _(M,W,F,S)_
+1. **Introduction** (Papi Gp)
+    - Kamustahan
+    - Current Events
+    - Guest Introduction By Host _(Optional If Guest Is Present)_
+        * Let Guest Introduce Himself/Herself
+        * Ask Guest Questions About Himself/Herself
+2. **Pusong Sugatan, May Kasagutan (PSMY) Segment**
+    - Acknowledge/shoutout Fb Fans/watchers 
+    - Read Text Questions
+        * Ready Text Question Papi Gp, Mister M, Vitamin J, Direk
+    - Read Fb Comments
+3. **Seryosong Tanong, Seryosong Sagot Segment (STSS)**
+    - Read Text Questions
+        * Ready Text Question Papi Gp, Mister M, Vitamin J, Direk
+    - Read Fb Comments
+4. **Closing Remark**
+    - Ask Guest How To Reach Himself/Herself _(Optional If Guest Is Present)_
+    - Remind Everyone Of Hey Guys Schedule _(M,W,F,S)_
   
-#### FUTURE SEGMENT IDEAS
-  1. KNOCK KNOCK JOKE
-  2. PRO TIPS
-  3. TRIVIA
+#### Future Segment Ideas
+  1. Knock Knock Joke
+  2. Pro Tips
+  3. Trivia
 
-#### REGULAR GUEST EVERY SAT
-  * ALEXIS "SHAIDER"
+#### Regular Guest Every Sat
+  * Alexis "Shaider"
 
-#### PREVIOUS GUESTS
-  1. JR "MASTER JERIMIAH"
-  2. CHIT "PAPI CHIT"
-  3. JANA "MADAM JANA"
-  5. CJ "MS. CJ"
+#### Previous Guests
+  1. JR "Master Jerimiah"
+  2. Chit "Papi Chit"
+  3. Jana "Madam Jana"
+  5. Cj "Ms. Cj"
