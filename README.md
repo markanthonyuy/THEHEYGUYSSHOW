@@ -4,7 +4,7 @@
 
 ## The Hey Guys Show
 
-#### The Hey Guys Show Presented By ([Jet](Https://www.facebook.com/jetalarcon) "Papi Gp", [Flo](Https://www.facebook.com/tabvlogger/) "Direk", [JP](Https://www.facebook.com/chizibi) "Vitamin J", [Mark](Https://www.facebook.com/macmac.uy) "Mister M")
+#### The Hey Guys Show Presented By ([Jet](Https://www.facebook.com/jetalarcon) "Papi Gp", [Flo](Https://www.facebook.com/tabvlogger/) "Direk DJ Darkness", [JP](Https://www.facebook.com/chizibi) "Vitamin J", [Mark](Https://www.facebook.com/macmac.uy) "Mister M")
 
 1. **Introduction** (Papi Gp)
     - Kamustahan
@@ -13,14 +13,14 @@
         * Let Guest Introduce Himself/Herself
         * Ask Guest Questions About Himself/Herself
 2. **Pusong Sugatan, May Kasagutan (PSMY) Segment**
-    - Acknowledge/shoutout Fb Fans/watchers 
+    - Acknowledge/Shoutout FB Fans/Watchers 
     - Read Text Questions
         * Ready Text Question Papi Gp, Mister M, Vitamin J, Direk
-    - Read Fb Comments
+    - Read FB Comments
 3. **Seryosong Tanong, Seryosong Sagot Segment (STSS)**
     - Read Text Questions
         * Ready Text Question Papi Gp, Mister M, Vitamin J, Direk
-    - Read Fb Comments
+    - Read FB Comments
 4. **Closing Remark**
     - Ask Guest How To Reach Himself/Herself _(Optional If Guest Is Present)_
     - Remind Everyone Of Hey Guys Schedule _(M,W,F,S)_
@@ -37,4 +37,4 @@
   1. JR "Master Jerimiah"
   2. Chit "Papi Chit"
   3. Jana "Madam Jana"
-  5. Cj "Ms. Cj"
+  5. CJ "Ms. CJ"
